@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @TewoldeM,
-A Website developer
+Next js fullsatck web developer
