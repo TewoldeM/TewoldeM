@@ -1,2 +1,109 @@
-- 👋 Hi, I’m @TewoldeM,
-Next js fullsatck web developer
+<h1 align="center">👋 Hey there! I'm <span style="color:#00bcd4;">Tewolde Marie</span></h1>
+
+<p align="center">
+  🚀 <strong>Full Stack Web Developer</strong> | 📱 <strong>Mobile App Developer</strong> <br/>
+  💻 Building scalable, high-performance apps for web & mobile using modern technologies.
+</p>
+
+---
+
+### 🎓 About Me
+🎯 I'm a **Software Engineer**, graduated in **June 2025** with an **excellent grade**.  
+💼 I’m a **Freelancer** and the **Founder of [Sheger Freight](https://github.com/ShegerFreight)** — a logistics platform connecting shippers and truck drivers in Ethiopia 🇪🇹.  
+💡 I love creating efficient systems with clean architecture and beautiful UIs.
+
+---
+
+### 🧠 Tech Stack & Tools
+
+#### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,redux,flutter,reactnative" alt="Frontend Stack" />
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,docker,appwrite,supabase" alt="Backend Stack" />
+</p>
+
+#### 🔐 Authentication & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=clerk" alt="Clerk" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
+</p>
+
+#### 🧩 Libraries & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tanstack" alt="TanStack" />
+</p>
+
+---
+
+### 🚀 My Startup
+#### 🏢 **Sheger Freight**
+> A logistics platform connecting shippers and truck drivers — like Uber, but for trucks in Ethiopia.  
+🌍 Empowering local transport with digital solutions and modern logistics tools.
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/8832/8832119.png" width="100" alt="truck logo"/>
+</p>
+
+---
+
+### 🧩 Contribution & Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tewoldemarie&theme=github_dark" alt="GitHub Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tewoldemarie&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tewoldemarie&theme=github_dark" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tewoldemarie&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tewoldemarie&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tewoldemarie&theme=github-dark" height="160"/>
+</p>
+
+---
+
+### 🌱 What I'm Working On
+- ⚡ Building logistics systems for **Sheger Freight**
+- 💡 Freelance projects using **Next.js**, **Nest.js**, and **React Native**
+- ☁️ Exploring **Appwrite**, **Supabase**, and **Docker** for backend innovation
+
+---
+
+### 📫 Let’s Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/tewoldemarie" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:tewoldemarie@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  </a>
+  <a href="https://github.com/tewoldemarie" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+</p>
+
+---
+
+### 💬 Quote I Live By
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Freelancer+%26+Founder+of+Sheger+Freight;Always+Learning+New+Things!"/>
+</p>
