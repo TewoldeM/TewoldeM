@@ -105,5 +105,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Freelancer+%26+Founder+of+Sheger+Freight;Always+Learning+New+Things!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Freelancer+%26+Founder+of+Sheger+Freight;Always+Learning+New+Things!"/>
 </p>
