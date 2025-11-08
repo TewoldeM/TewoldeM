@@ -58,21 +58,21 @@
 ### 🧩 Contribution & Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tewoldemarie&theme=github_dark" alt="GitHub Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TewoldeM&theme=github_dark" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tewoldemarie&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TewoldeM&theme=github_dark" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tewoldemarie&theme=github_dark" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tewoldemarie&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TewoldeM&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tewoldemarie&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tewoldemarie&theme=github-dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TewoldeM&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TewoldeM&theme=github-dark" height="160"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@
   <a href="mailto:tewoldemarie@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
   </a>
-  <a href="https://github.com/tewoldemarie" target="_blank">
+  <a href="https://github.com/TewoldeM" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
