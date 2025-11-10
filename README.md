@@ -8,8 +8,7 @@
 ---
 
 ### 🎓 About Me
-🎯 I'm a **Software Engineer**, graduated in **June 2025** with an **excellent grade**.  
-💼 I’m a **Freelancer** and the **Founder of [Sheger Freight](https://github.com/ShegerFreight)** — a logistics platform connecting shippers and truck drivers in Ethiopia 🇪🇹.  
+🎯 I'm a **Software Engineer**, graduated in **June 2025** with an **excellent grade**.   
 💡 I love creating efficient systems with clean architecture and beautiful UIs.
 
 ---
@@ -44,14 +43,7 @@
 
 ---
 
-### 🚀 My Startup
-#### 🏢 **Sheger Freight**
-> A logistics platform connecting shippers and truck drivers — like Uber, but for trucks in Ethiopia.  
-🌍 Empowering local transport with digital solutions and modern logistics tools.
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8832/8832119.png" width="100" alt="truck logo"/>
-</p>
 
 ---
 
