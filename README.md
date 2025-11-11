@@ -50,21 +50,13 @@
 ### 🧩 Contribution & Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TewoldeM&theme=github_dark" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TewoldeM&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tewoldemarie&theme=github_dark" height="150" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TewoldeM&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TewoldeM&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TewoldeM&theme=github-dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TewoldeM&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TewoldeM&theme=github-dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TewoldeM&theme=github_dark" height="150" />
 </p>
 
 ---
