@@ -17,32 +17,13 @@
 
 #### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,redux,flutter,reactnative" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,redux,reactnative" alt="Frontend Stack" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,docker,appwrite,supabase" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=next,nestjs,docker,appwrite,supabase" alt="Backend Stack" />
 </p>
-
-#### 🔐 Authentication & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=clerk" alt="Clerk" />
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
-</p>
-
-#### 🧩 Libraries & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tanstack" alt="TanStack" />
-</p>
-
----
-
 
 
 ---
@@ -55,14 +36,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TewoldeM&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TewoldeM&theme=github-dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TewoldeM&theme=github-dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TewoldeM&theme=github_dark" height="150" />
 </p>
 
 ---
 
 ### 🌱 What I'm Working On
-- ⚡ Building logistics systems for **Sheger Freight**
+- ⚡ Building logistics systems for **.....AF*
 - 💡 Freelance projects using **Next.js**, **Nest.js**, and **React Native**
 - ☁️ Exploring **Appwrite**, **Supabase**, and **Docker** for backend innovation
 
@@ -89,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Freelancer+%26+Founder+of+Sheger+Freight;Always+Learning+New+Things!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Freelancer+%26;Always+Learning+New+Things!"/>
 </p>
