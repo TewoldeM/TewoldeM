@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00bcd4;">Tewolde Marie</span></h1>
 
 <p align="center">
-  🚀 <strong>Full Stack Web Developer</strong> | 📱 <strong>Mobile App Developer</strong> <br/>
-  💻 Building scalable, high-performance apps for web & mobile using modern technologies.
+  🚀 <strong>Full Stack Web Developer</strong>> <br/>
+  💻 Building scalable, high-performance apps for web using modern technologies.
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,nestjs,docker,appwrite,supabase" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=next,docker,appwrite,supabase" alt="Backend Stack" />
 </p>
 
 
@@ -44,7 +44,7 @@
 
 ### 🌱 What I'm Working On
 - ⚡ Building logistics systems for **.....AF*
-- 💡 Freelance projects using **Next.js**, **Nest.js**, and **React Native**
+- 💡 Freelance projects using **Next.js**, and **React**
 - ☁️ Exploring **Appwrite**, **Supabase**, and **Docker** for backend innovation
 
 ---
